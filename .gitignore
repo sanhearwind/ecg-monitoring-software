@@ -1,0 +1,34 @@
+# Local caches and generated outputs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.d
+*.o
+*.crf
+*.dep
+*.iex
+*.lnp
+*.htm
+*.csv
+*.log
+*.spec
+
+# IDE/local files
+*.uvguix.*
+*.uvgui.*
+.idea/
+.vscode/
+*.user
+*.suo
+*.swp
